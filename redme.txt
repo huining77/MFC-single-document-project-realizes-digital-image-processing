@@ -1,0 +1,2 @@
+MFCApplication4.rar 是没有进行傅里叶变化的，一般下载后可以直接运行.
+而MFCApplication1 是添加了opencv的环境的，所以需要自己安装好opencv的环境才可以运行。
